@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="15532cc2197c45dfa16ae3e06739420a" Name="Diagram1">
+        <EntityTypeShape EntityType="FarmDbEntitiesModel.Animal" Width="1.5" PointX="3" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FarmDbEntitiesModel.AnimalType" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FarmDbEntitiesModel.FarmStatistic" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FarmDbEntitiesModel.MilkStatistic" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="FarmDbEntitiesModel.OffspringStatistic" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="FarmDbEntitiesModel.FK__Animal__AnimalTy__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="FarmDbEntitiesModel.FK__MilkStati__Anima__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="FarmDbEntitiesModel.FK__Offspring__Anima__3F466844" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
