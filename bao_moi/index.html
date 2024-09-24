@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Báo Mới - Tin tức nóng nhất, tin tức mới nhất cập nhật liên tục 24H - BAOMOI.COM</title>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="https://baomoi-static.zadn.vn/favicons/favicon-32x32.png" sizes="32x32" />
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <div class="main-nav container flex">
+            <div class="flex " style="width: 100%;;">
+                <a href="" class="company-logo">
+                    <img src="./images/bm-logo.png" alt="logo">
+                </a>
+                <div class="search-bar flex">
+                    <input type="text" class="news-input" id="search-text" placeholder="Nhập nội dung tìm kiếm">
+                    <button class="search-button" id="search-button">
+                      <img src="./images/kinhlup.png" alt="search" class="search-icon">
+                    </button>
+                </div>
+            </div>
+            <div class="nav-links">
+                <ul class="flex">
+                    <button style="background-color: transparent; border: none; cursor: pointer; margin-left: 5px;">
+                        <img src="./images/ic-user.svg" style="height: 25px;">
+                    </button>
+                    <button style="background-color: transparent; border: none; cursor: pointer; margin-left: 5px;">
+                        <img src="./images/ic-lite.svg" style="height: 25px;">
+                    </button>
+                </ul>
+            </div>
+        </div>
+
+        <div class="rectangle">
+            <div class="frame"><span class="hot-topic">CHỦ ĐỀ</span></div>
+            <div class="frame-4"><span class="hot-video">VIDEO</span></div>
+            <button class="frame-5"><span class="hot-news">NÓNG</span></button
+            ><button class="frame-6"><span class="new-hot">MỚI</span></button>
+            <div class="frame-7"><span class="three">三</span></div>
+            <button class="frame-8">
+              <span class="positive-energy"># Năng lượng tích cực</span></button
+            ><button class="frame-9">
+              <span class="explore-vietnam"># Khám phá Việt Nam</span></button
+            ><button class="frame-a">
+              <span class="explore-world"># Khám phá Thế Giới</span>
+            </button>
+          </div>
+    </header>
+
+
+    <main>
+        <section class="main-content">
+            <div class="cards-container container" style="margin-bottom: 20px;">
+                <div class="group">
+                  <div class="image-11"></div>
+                </div>
+                <span class="tan-hoa-flood">
+                    Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Thủ tướng Ấn Độ 
+                </span>
+                <div class="frame-12">
+                  <span class="tienphong">TienPhong</span>
+                  <span class="text-c">1 gio</span>
+                  <span class="related-8">8 liên quan</span>
+                </div>
+              </div>
+            <div class="cards-container container flex" id="cardscontainer">
+        </section>
+        <aside class="sidebar">
+            <div id="sb_news_container" style="display: flex; flex-direction: column; margin-left: 20px;">
+
+            </div>
+        </aside>
+    </main>
+
+    <template id="template-news-card">
+        <div class="card">
+            <div class="card-header">
+                <img src="https://via.placeholder.com/400x200" alt="" id="news-img">
+            </div>
+            <div class="card-content">
+                <h3 id="news-title">This is the Title</h3>
+                <h6 class="news-source" id="news-source">constGenius 02/02/2024</h6>
+                <p class="news-desc" id="news-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem
+                    incidunt ratione, dolore beatae quaerat voluptatum autem fugit voluptas minima eligendi facere
+                    tenetur cumque. Dolorem porro, fugiat distinctio a accusamus cum!</p>
+            </div>
+        </div>
+    </template>
+    <template id="template-sb_item">
+        <div class="sidebar-item">
+            <img id="sb_img" src="./images/NewsWebsite.png" alt="Gov Info" class="sidebar-img">
+            <div style="align-items: start; flex-direction: column;">
+                <a id="sb_title" href="#" class="sidebar-title">Bảng thông tin chính phủ</a>
+                <div style="display: flex; flex-direction: row; align-items: center;">
+                    <img src="https://photo-baomoi.bmcdn.me/a1493a27e7640e3a5775.png"
+                        class="sider-item-publisher-image">
+                    <p id="sb_time" class="sider-item-text">5 giờ trước</p>
+                    <p id="sb_rel" class="sider-item-text">15 liên quan</p>
+                </div>
+            </div>
+        </div>
+    </template>
+
+
+</body>
+<footer>
+    <div class="footer-container">
+        <img class="footer-logo" src="./images/logo_footer.png" alt="logo">
+        <input type="text" class="search-bar" style="margin-right: 15%;" placeholder="Tìm kiếm...">
+    </div>
+    <div class="footer-tags">
+        <a href="#">Nguyễn Xuân Sơn</a>
+        <a href="#">Phạm Minh Chính</a>
+        <a href="#">Bóng Đá</a>
+        <a href="#">Xổ Số Miền Nam</a>
+        <a href="#">Liverpool</a>
+    </div>
+    <div class="footer-info">
+        <div class="footer-column">
+            <a href="#">Giới thiệu</a>
+            <a href="#">Điều khoản sử dụng</a>
+            <a href="#">Chính sách bảo mật</a>
+            <a href="#">Quảng cáo</a>
+        </div>
+        <div class="footer-column">
+            <p>Giấy phép & Địa chỉ công ty:</p>
+            <p>Email: info@baomoi.com</p>
+            <p>Điện thoại: +84 123 456 789</p>
+            <p>Địa chỉ: 123 Đường ABC, TP. HCM</p>
+        </div>
+    </div>
+</footer>
+
+</html>
