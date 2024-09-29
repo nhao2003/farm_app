@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC9A8A1-A493-4923-B7D6-11028D51FB6B}|ProductManagement.csproj|c:\\users\\nhath\\desktop\\farm_app\\product_management\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC9A8A1-A493-4923-B7D6-11028D51FB6B}|ProductManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC9A8A1-A493-4923-B7D6-11028D51FB6B}|ProductManagement.csproj|c:\\users\\nhath\\desktop\\farm_app\\product_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC9A8A1-A493-4923-B7D6-11028D51FB6B}|ProductManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC9A8A1-A493-4923-B7D6-11028D51FB6B}|ProductManagement.csproj|c:\\users\\nhath\\desktop\\farm_app\\product_management\\product.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DCC9A8A1-A493-4923-B7D6-11028D51FB6B}|ProductManagement.csproj|solutionrelative:product.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\MainForm.cs [Design]*",
+              "RelativeToolTip": "MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:11:12.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:11:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\Product.edmx",
+              "RelativeDocumentMoniker": "Product.edmx",
+              "ToolTip": "C:\\Users\\nhath\\Desktop\\farm_app\\product_management\\Product.edmx [Diagram1]",
+              "RelativeToolTip": "Product.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-29T14:10:58.187Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

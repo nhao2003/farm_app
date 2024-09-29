@@ -1,0 +1,26 @@
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.frmProdManagement.resources
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\EntityFramework.dll
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\EntityFramework.xml
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.MainForm.resources
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.exe
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductManagement.pdb
+C:\Users\nhath\Desktop\farm_app\product_management\bin\Debug\ProductManagement.exe.config
+C:\Users\nhath\Desktop\farm_app\product_management\bin\Debug\ProductManagement.exe
+C:\Users\nhath\Desktop\farm_app\product_management\bin\Debug\ProductManagement.pdb
+C:\Users\nhath\Desktop\farm_app\product_management\bin\Debug\EntityFramework.dll
+C:\Users\nhath\Desktop\farm_app\product_management\bin\Debug\EntityFramework.xml
+C:\Users\nhath\Desktop\farm_app\product_management\obj\Debug\ProductM.8086A758.Up2Date
