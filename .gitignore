@@ -1,0 +1,77 @@
+# ASP.NET Core
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Logs
+*.log
+logs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Packages
+*.nupkg
+*.snupkg
+*.psmdcp
+project.lock.json
+project.fragment.lock.json
+
+# Dependency directories
+packages/
+node_modules/
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.dbmdl
+*.jfm
+*.class
+
+# Local History
+.localhistory/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Web config
+appsettings*.json
+
+# Publish directory
+wwwroot/
+
+# Azure App Service Settings
+azds.json
+
+# Entity Framework migrations
+Migrations/
+
+# JetBrains Rider generated folders and files
+.idea/
+.idea_modules/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS files
+.DS_Store
+
+# Resharper files
+_ReSharper*/
